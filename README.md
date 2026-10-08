@@ -1,3 +1,5 @@
+<img src="Foto.jpg" alt="Foto Profil Fathriq" width="200" style="border-radius: 50%;">
+
 # About Me
 
 **Nama:** Fathiyyahdi At Thariq  
@@ -5,10 +7,7 @@
 **Departemen:** Fisika  
 **Institut:** Institut Teknologi Bandung  
 
-## Hobi & Minat
-- Programming (Git, JavaScript, Python)
-- Membaca artikel sains
-- Menulis di Medium
+Halo! Saya Thariq, mahasiswa Fisika ITB yang lagi belajar Git, GitHub, dan web development.
 
 ## Kontak
 - GitHub: [Fathriq](https://github.com/Fathriq)
