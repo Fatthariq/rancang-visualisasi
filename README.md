@@ -1,14 +1,10 @@
-<img src="Foto.jpg" alt="Foto Profil Fathriq" width="200" style="border-radius: 50%;">
+# 🚀 Website Portfolio Fathriq
 
-# About Me
+Halo! Saya **Fathiyyahdi At Thariq**, mahasiswa Fisika ITB.
 
-**Nama:** Fathiyyahdi At Thariq  
-**NIM:** 10223093  
-**Departemen:** Fisika  
-**Institut:** Institut Teknologi Bandung  
+Selamat datang di website pribadi saya! Di sini saya berbagi tentang:
+-  Catatan belajar
+- 💻 Proyek programming
+- 🧪 Eksperimen sains
 
-Halo! Saya Thariq, mahasiswa Fisika ITB yang lagi belajar Git, GitHub, dan web development.
-
-## Kontak
-- GitHub: [Fathriq](https://github.com/Fathriq)
-- Medium: [@fathiatthariq](https://medium.com/@fathiatthariq)
+Silakan jelajahi halaman-halaman di atas untuk melihat lebih banyak!
