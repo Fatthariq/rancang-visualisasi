@@ -1,6 +1,8 @@
-[Home](README.md) &bull; [Notes](notes.md) &bull; [Work](docs/README.md) &bull; [About](about.md)
+# About Me
 
-# about
-Halo, saya **Pengajar Empatnol**.
+Nama: Fathiyyahdi At Thariq  
+NIM: 10223093  
+Departemen: Fisika  
+Institut: Institut Teknologi Bandung
 
-Selamat datang di web worskhop Rancang Visualisasi untuk Pendidikan Sains 4.0.
+Hobi: Coding, membaca, Tidur, Basket, Game
