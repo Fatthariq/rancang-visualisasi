@@ -1,4 +1,4 @@
-<img src="Foto.jpg" alt="Foto Profil Fathriq" width="200" style="border-radius: 50%;">
+<img src="Foto.jpg" alt="Foto Profil Fathriq" width="200">
 
 # About Me
 
